@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.005" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -1762,6 +1762,103 @@ from Sparkfun Library</description>
 <text x="1.27" y="0" size="1.778" layer="51">Designed by:</text>
 <text x="1.27" y="2.54" size="1.778" layer="51">Wheelbuilder.com</text>
 </package>
+<package name="WBLOGO2">
+<rectangle x1="7.1755" y1="-0.0635" x2="8.0645" y2="0.0635" layer="21"/>
+<rectangle x1="9.9695" y1="-0.0635" x2="10.7315" y2="0.0635" layer="21"/>
+<rectangle x1="6.9215" y1="0.0635" x2="8.4455" y2="0.1905" layer="21"/>
+<rectangle x1="9.5885" y1="0.0635" x2="11.1125" y2="0.1905" layer="21"/>
+<rectangle x1="6.6675" y1="0.1905" x2="8.5725" y2="0.3175" layer="21"/>
+<rectangle x1="9.4615" y1="0.1905" x2="11.3665" y2="0.3175" layer="21"/>
+<rectangle x1="6.5405" y1="0.3175" x2="8.6995" y2="0.4445" layer="21"/>
+<rectangle x1="9.3345" y1="0.3175" x2="11.6205" y2="0.4445" layer="21"/>
+<rectangle x1="6.2865" y1="0.4445" x2="8.9535" y2="0.5715" layer="21"/>
+<rectangle x1="9.2075" y1="0.4445" x2="11.7475" y2="0.5715" layer="21"/>
+<rectangle x1="6.0325" y1="0.5715" x2="6.2865" y2="0.6985" layer="21"/>
+<rectangle x1="6.4135" y1="0.5715" x2="9.0805" y2="0.6985" layer="21"/>
+<rectangle x1="9.2075" y1="0.5715" x2="9.5885" y2="0.6985" layer="21"/>
+<rectangle x1="9.7155" y1="0.5715" x2="9.8425" y2="0.6985" layer="21"/>
+<rectangle x1="10.9855" y1="0.5715" x2="11.8745" y2="0.6985" layer="21"/>
+<rectangle x1="5.9055" y1="0.6985" x2="7.5565" y2="0.8255" layer="21"/>
+<rectangle x1="8.4455" y1="0.6985" x2="9.0805" y2="0.8255" layer="21"/>
+<rectangle x1="9.2075" y1="0.6985" x2="9.8425" y2="0.8255" layer="21"/>
+<rectangle x1="11.2395" y1="0.6985" x2="12.0015" y2="0.8255" layer="21"/>
+<rectangle x1="3.8735" y1="0.8255" x2="5.7785" y2="0.9525" layer="21"/>
+<rectangle x1="5.9055" y1="0.8255" x2="7.3025" y2="0.9525" layer="21"/>
+<rectangle x1="8.0645" y1="0.8255" x2="8.3185" y2="0.9525" layer="21"/>
+<rectangle x1="8.6995" y1="0.8255" x2="9.7155" y2="0.9525" layer="21"/>
+<rectangle x1="11.4935" y1="0.8255" x2="12.1285" y2="0.9525" layer="21"/>
+<rectangle x1="3.7465" y1="0.9525" x2="4.0005" y2="1.0795" layer="21"/>
+<rectangle x1="4.1275" y1="0.9525" x2="7.1755" y2="1.0795" layer="21"/>
+<rectangle x1="8.1915" y1="0.9525" x2="8.5725" y2="1.0795" layer="21"/>
+<rectangle x1="8.8265" y1="0.9525" x2="9.4615" y2="1.0795" layer="21"/>
+<rectangle x1="11.6205" y1="0.9525" x2="12.2555" y2="1.0795" layer="21"/>
+<rectangle x1="2.9845" y1="1.0795" x2="7.1755" y2="1.2065" layer="21"/>
+<rectangle x1="8.1915" y1="1.0795" x2="8.6995" y2="1.2065" layer="21"/>
+<rectangle x1="8.9535" y1="1.0795" x2="9.4615" y2="1.2065" layer="21"/>
+<rectangle x1="11.7475" y1="1.0795" x2="12.2555" y2="1.2065" layer="21"/>
+<rectangle x1="2.7305" y1="1.2065" x2="7.1755" y2="1.3335" layer="21"/>
+<rectangle x1="8.4455" y1="1.2065" x2="8.9535" y2="1.3335" layer="21"/>
+<rectangle x1="9.0805" y1="1.2065" x2="9.4615" y2="1.3335" layer="21"/>
+<rectangle x1="11.8745" y1="1.2065" x2="12.3825" y2="1.3335" layer="21"/>
+<rectangle x1="1.8415" y1="1.3335" x2="7.1755" y2="1.4605" layer="21"/>
+<rectangle x1="8.5725" y1="1.3335" x2="9.0805" y2="1.4605" layer="21"/>
+<rectangle x1="9.2075" y1="1.3335" x2="9.4615" y2="1.4605" layer="21"/>
+<rectangle x1="12.0015" y1="1.3335" x2="12.3825" y2="1.4605" layer="21"/>
+<rectangle x1="1.7145" y1="1.4605" x2="7.0485" y2="1.5875" layer="21"/>
+<rectangle x1="8.6995" y1="1.4605" x2="9.2075" y2="1.5875" layer="21"/>
+<rectangle x1="12.1285" y1="1.4605" x2="12.3825" y2="1.5875" layer="21"/>
+<rectangle x1="1.4605" y1="1.5875" x2="7.0485" y2="1.7145" layer="21"/>
+<rectangle x1="8.8265" y1="1.5875" x2="9.4615" y2="1.7145" layer="21"/>
+<rectangle x1="12.1285" y1="1.5875" x2="12.3825" y2="1.7145" layer="21"/>
+<rectangle x1="1.3335" y1="1.7145" x2="7.0485" y2="1.8415" layer="21"/>
+<rectangle x1="8.8265" y1="1.7145" x2="9.5885" y2="1.8415" layer="21"/>
+<rectangle x1="12.2555" y1="1.7145" x2="12.5095" y2="1.8415" layer="21"/>
+<rectangle x1="0.6985" y1="1.8415" x2="7.1755" y2="1.9685" layer="21"/>
+<rectangle x1="8.9535" y1="1.8415" x2="9.7155" y2="1.9685" layer="21"/>
+<rectangle x1="12.2555" y1="1.8415" x2="12.5095" y2="1.9685" layer="21"/>
+<rectangle x1="0.4445" y1="1.9685" x2="7.1755" y2="2.0955" layer="21"/>
+<rectangle x1="8.9535" y1="1.9685" x2="9.7155" y2="2.0955" layer="21"/>
+<rectangle x1="12.2555" y1="1.9685" x2="12.5095" y2="2.0955" layer="21"/>
+<rectangle x1="0.3175" y1="2.0955" x2="7.4295" y2="2.2225" layer="21"/>
+<rectangle x1="8.8265" y1="2.0955" x2="9.8425" y2="2.2225" layer="21"/>
+<rectangle x1="10.0965" y1="2.0955" x2="12.0015" y2="2.2225" layer="21"/>
+<rectangle x1="12.2555" y1="2.0955" x2="12.5095" y2="2.2225" layer="21"/>
+<rectangle x1="0.1905" y1="2.2225" x2="7.1755" y2="2.3495" layer="21"/>
+<rectangle x1="7.3025" y1="2.2225" x2="7.4295" y2="2.3495" layer="21"/>
+<rectangle x1="8.6995" y1="2.2225" x2="10.2235" y2="2.3495" layer="21"/>
+<rectangle x1="10.4775" y1="2.2225" x2="11.7475" y2="2.3495" layer="21"/>
+<rectangle x1="12.3825" y1="2.2225" x2="12.5095" y2="2.3495" layer="21"/>
+<rectangle x1="0.0635" y1="2.3495" x2="3.1115" y2="2.4765" layer="21"/>
+<rectangle x1="3.2385" y1="2.3495" x2="7.5565" y2="2.4765" layer="21"/>
+<rectangle x1="8.4455" y1="2.3495" x2="10.7315" y2="2.4765" layer="21"/>
+<rectangle x1="12.3825" y1="2.3495" x2="12.5095" y2="2.4765" layer="21"/>
+<rectangle x1="0.0635" y1="2.4765" x2="1.0795" y2="2.6035" layer="21"/>
+<rectangle x1="2.6035" y1="2.4765" x2="7.5565" y2="2.6035" layer="21"/>
+<rectangle x1="8.1915" y1="2.4765" x2="10.3505" y2="2.6035" layer="21"/>
+<rectangle x1="12.3825" y1="2.4765" x2="12.5095" y2="2.6035" layer="21"/>
+<rectangle x1="0.0635" y1="2.6035" x2="0.4445" y2="2.7305" layer="21"/>
+<rectangle x1="4.1275" y1="2.6035" x2="5.2705" y2="2.7305" layer="21"/>
+<rectangle x1="5.3975" y1="2.6035" x2="7.8105" y2="2.7305" layer="21"/>
+<rectangle x1="7.9375" y1="2.6035" x2="10.3505" y2="2.7305" layer="21"/>
+<rectangle x1="10.8585" y1="2.6035" x2="10.9855" y2="2.7305" layer="21"/>
+<rectangle x1="12.3825" y1="2.6035" x2="12.5095" y2="2.7305" layer="21"/>
+<rectangle x1="0.1905" y1="2.7305" x2="0.3175" y2="2.8575" layer="21"/>
+<rectangle x1="5.1435" y1="2.7305" x2="7.9375" y2="2.8575" layer="21"/>
+<rectangle x1="8.0645" y1="2.7305" x2="9.2075" y2="2.8575" layer="21"/>
+<rectangle x1="9.3345" y1="2.7305" x2="10.3505" y2="2.8575" layer="21"/>
+<rectangle x1="10.7315" y1="2.7305" x2="11.2395" y2="2.8575" layer="21"/>
+<rectangle x1="6.1595" y1="2.8575" x2="8.0645" y2="2.9845" layer="21"/>
+<rectangle x1="8.3185" y1="2.8575" x2="10.2235" y2="2.9845" layer="21"/>
+<rectangle x1="10.6045" y1="2.8575" x2="11.2395" y2="2.9845" layer="21"/>
+<rectangle x1="6.7945" y1="2.9845" x2="8.3185" y2="3.1115" layer="21"/>
+<rectangle x1="10.3505" y1="2.9845" x2="11.2395" y2="3.1115" layer="21"/>
+<rectangle x1="7.6835" y1="3.1115" x2="8.4455" y2="3.2385" layer="21"/>
+<rectangle x1="9.7155" y1="3.1115" x2="11.2395" y2="3.2385" layer="21"/>
+<rectangle x1="8.3185" y1="3.2385" x2="8.4455" y2="3.3655" layer="21"/>
+<rectangle x1="8.6995" y1="3.2385" x2="9.7155" y2="3.3655" layer="21"/>
+<rectangle x1="9.9695" y1="3.2385" x2="11.1125" y2="3.3655" layer="21"/>
+<rectangle x1="9.2075" y1="3.3655" x2="10.8585" y2="3.4925" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="BATTERY">
@@ -1898,7 +1995,7 @@ from Sparkfun Library</description>
 <gate name="G$1" symbol="WBLOGO" x="-22.86" y="0"/>
 </gates>
 <devices>
-<device name="" package="WBLOGO">
+<device name="" package="WBLOGO2">
 <technologies>
 <technology name=""/>
 </technologies>
